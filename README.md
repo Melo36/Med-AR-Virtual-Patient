@@ -27,7 +27,7 @@ The project is built using a modern spatial computing workflow optimized for per
 * **XR Framework:** Unity OpenXR Plugin
 * **Tracking & Registration:** ARFoundation
 * **Target Devices:** Meta Quest 2
-* **Programming Language:** C#
+* **Programming Language:** C#, Python
 
 ---
 
